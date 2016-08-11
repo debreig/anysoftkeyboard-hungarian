@@ -15,8 +15,8 @@
         <Key android:codes="p" android:popupCharacters="ø" android:keyLabel=""/>
         <Key android:codes="g" android:popupCharacters="µ" android:keyLabel=""/>
         <Key android:codes="j" android:popupCharacters="¶" android:keyLabel=""/>
-        <Key android:codes="l" android:popupCharacters="°" android:keyLabel=""/>
-        <Key android:codes="u,ú" android:popupCharacters="úüű‰" android:keyLabel=""/>
+        <Key android:codes="l,ly" android:popupCharacters="°" android:keyLabel=""/>
+        <Key android:codes="u,ú,ü,ű" android:popupCharacters="úüű‰×‘¤" android:keyLabel=""/>
         <Key android:codes="z,zs" android:popupCharacters="±" android:keyLabel=""/>
         <Key android:codes="-5" android:keyWidth="10%p" android:isRepeatable="true" android:keyEdgeFlags="right"/>
     </Row>
@@ -29,9 +29,9 @@
         <Key android:codes="d,dz,dzs" android:popupCharacters="]" android:keyLabel=""/>
         <Key android:codes="h" android:popupCharacters="©" android:keyLabel=""/>
         <Key android:codes="n,ny" android:popupCharacters="®" android:keyLabel=""/>
-        <Key android:codes="e,é" android:popupCharacters="é™" android:keyLabel=""/>
-        <Key android:codes="i,í" android:popupCharacters="í≤" android:keyLabel=""/>
-        <Key android:codes="o,ó,ö,ő" android:popupCharacters="óöő≥" android:keyLabel="" android:keyEdgeFlags="right"/>
+        <Key android:codes="e,é" android:popupCharacters="é™≠" android:keyLabel=""/>
+        <Key android:codes="i,í" android:popupCharacters="í≤<" android:keyLabel=""/>
+        <Key android:codes="o,ó,ö,ő" android:popupCharacters="óöő≥’Ð÷" android:keyLabel="" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
